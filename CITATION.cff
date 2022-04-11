@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: Beautify GitHub sample repository
+message: If you really want to cite this repository, here's how you should cite it.
+type: software
+authors:
+  - given-names: Nicolas
+    family-names: Fränkel
+repository-code: 'https://github.com/ajavageek/beautifygithub'
+license: Unlicense
