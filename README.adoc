@@ -1,0 +1,3 @@
+# Beautify your GitHub repo
+
+Asciidoctor format works again!
